@@ -3,5 +3,5 @@
     <string name="titulo">CALCULADORA</string>
     <string name="numero_uno">Número Uno</string>
     <string name="numero_dos">Número Dos</string>
-    <string name="calcular">Calcular</string>
+    <string name="calcular">Sumar</string>
 </resources>

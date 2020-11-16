@@ -4,5 +4,5 @@
     <string name="titulo">CALCULATOR</string>
     <string name="numero_uno">Number One</string>
     <string name="numero_dos">Number Two</string>
-    <string name="calcular">Calculate</string>
+    <string name="calcular">Add</string>
 </resources>

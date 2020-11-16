@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CalculadoraSencilla</string>
+    <string name="titulo">CALCULADORA</string>
+    <string name="numero_uno">Número Uno</string>
+    <string name="numero_dos">Número Dos</string>
+    <string name="calcular">Calcular</string>
 </resources>

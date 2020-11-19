@@ -5,4 +5,6 @@
     <string name="numero_uno">Number One</string>
     <string name="numero_dos">Number Two</string>
     <string name="calcular">Add</string>
+    <string name="mensaje_error_numero_uno">Type Numbre One</string>
+    <string name="mensaje_error_numero_dos">Type Number Two</string>
 </resources>
